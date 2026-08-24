@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.ct {
+    width: 380px;
+    height: 510px;
+    border: 1px solid black;
+    margin: auto;
+    margin-block: 175px;
+}
+
+.ft {
+    width: 150px;
+    height: 180px;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.ctt {
+    display: inline-block;
+    padding: 10px 15px;
+    border: 1px solid black;
+}
+
+p {
+    border-bottom: 1px solid black;
+    padding: 5px;
+    margin: 0px;
+}
+
+.prim {
+    margin-bottom: 40px;
+}
+
+.seg {
+    margin-top: 20px;
+}
+
+.cx {
+   display: flex;
+   margin-block-start: 10px;
+   border: 1px solid black;
+   width: 200px;
+   height: 70px;
+   align-items: center;
+   margin-inline: 0;
+   gap: 0;
+}
