@@ -9,7 +9,7 @@
     height: 510px;
     border: 1px solid black;
     margin: auto;
-    margin-block: 175px;
+    margin-block: 15px;
 }
 
 .ft {
@@ -40,12 +40,41 @@ p {
 }
 
 .cx {
-   display: flex;
-   margin-block-start: 10px;
    border: 1px solid black;
-   width: 200px;
-   height: 70px;
-   align-items: center;
-   margin-inline: 0;
-   gap: 0;
+   width: 70px;
+   height: 80px;
+   display: inline-block;
+   margin-right: -20px;
+}
+
+.cx2 {
+   border: 2px solid black;
+   width: 70px;
+   height: 80px;
+   display: inline-block;
+}
+
+.cx3 {
+   border: 2px solid black;
+   width: 70px;
+   height: 80px;
+   display: inline-block;
+}
+
+.Rod {
+    border: 1px solid black;
+    display: block;
+    wipx;
+    margin-inline: 0px;
+    
+}    
+
+.rr {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.cctv {
+    margin: 0px;
 }
